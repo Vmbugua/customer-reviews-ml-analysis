@@ -6,7 +6,7 @@ A data science project that uses one dataset of Amazon customer reviews for thre
 
 | File | Description |
 |---|---|
-| `C09_M08.ipynb` | The notebook with all three parts |
+| `C09_M08 (4).ipynb` | The notebook with all three parts |
 | `amazon_reviews_lab.csv` | The dataset (997 reviews, 9 columns) |
 
 ## Dataset
@@ -21,7 +21,7 @@ Most reviews are positive (580 of 997 are 5 stars).
 
 ## How to Run (Google Colab)
 
-1. Open `C09_M08.ipynb` in Google Colab.
+1. Open `C09_M08 (4).ipynb` in Google Colab.
 2. Run the first code cell and upload `amazon_reviews_lab.csv` when asked.
 3. Run the rest of the cells in order.
 
